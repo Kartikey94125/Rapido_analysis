@@ -41,5 +41,5 @@ Edit
 The primary goal of this project is to provide Rapido with a robust analytics tool that enhances visibility into their daily operations and long-term performance. This dashboard facilitates strategic decision-making by turning complex data into clear insights.
 
 Screenshot/demos
-Show what the dasboard looks like:-
+Show what the dasboard looks like:-(https://github.com/Kartikey94125/Rapido_analysis/blob/main/Screenshot%202025-08-13%20125704.png)
 
