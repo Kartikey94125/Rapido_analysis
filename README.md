@@ -40,3 +40,6 @@ Edit
 💡 Objective
 The primary goal of this project is to provide Rapido with a robust analytics tool that enhances visibility into their daily operations and long-term performance. This dashboard facilitates strategic decision-making by turning complex data into clear insights.
 
+Screenshot/demos
+Show what the dasboard looks like:-
+
